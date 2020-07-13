@@ -83,7 +83,7 @@
     "sax": "^1.2.4",
     "sntp": "^2.0.2",
     "source-map": "^0.5.7",
-    "sshpk": "^1.13.1",
+    "sshpk": "^1.13.2",
     "stealthy-require": "^1.1.1",
     "stringstream": "^0.0.5",
     "symbol-tree": "^3.2.2",
