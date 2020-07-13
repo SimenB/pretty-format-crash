@@ -351,9 +351,9 @@ mime-types@^2.1.12, mime-types@^2.1.17, mime-types@~2.1.17:
   dependencies:
     mime-db "~1.30.0"
 
-nwmatcher@^1.4.1, nwmatcher@^1.4.2:
-  version "1.4.2"
-  resolved "https://registry.yarnpkg.com/nwmatcher/-/nwmatcher-1.4.2.tgz#c5e545ab40d22a56b0326531c4beaed7a888b3ea"
+nwmatcher@^1.4.1, nwmatcher@^1.4.4:
+  version "1.4.4"
+  resolved "https://registry.yarnpkg.com/nwmatcher/-/nwmatcher-1.4.4.tgz#2285631f34a95f0d0395cd900c96ed39b58f346e"
 
 oauth-sign@^0.8.2, oauth-sign@~0.8.2:
   version "0.8.2"
